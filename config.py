@@ -24,5 +24,5 @@ CHUNK_OVERLAP = 150
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 # Gemini
-GEMINI_API_KEY = "AIzaSyDXeEQUzqHgvbY1zDUhniNO6FT5_QOyoM0"
+GEMINI_API_KEY = "your_gemini_api_key"
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
